@@ -19,8 +19,6 @@ import contacts from '../slices/contacts';
 import filter from '../slices/filter';
 // import { composeWithDevTools } from 'redux-devtools-extension';
 
-// import { rootReducer } from '../reducers/index';
-
 // const store = createStore(rootReducer, composeWithDevTools());
 const persistConfig = {
   key: 'hello',
